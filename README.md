@@ -17,18 +17,18 @@ A Machine Learning-based web application that predicts whether a user's text exp
 - Simple and interactive user interface
 
 ## Files
-- `app.py` - Main Streamlit application
-- `sentiment_dataset.csv` - Dataset used for training
-- `sentiment_model.joblib` - Trained machine learning model
-- `sentimental_analysis.ipynb` - Model training and experimentation notebook
-- `sentiments.db` - Database for storing prediction history
+- app.py – Main Streamlit application
+- sentiment_dataset.csv – Dataset used for training
+- sentiment_model.joblib – Trained machine learning model
+- sentiment_analysis.ipynb – Model training and experimentation notebook
+- sentiments.db – Database for storing prediction history
 
 ## Run the Project
 
-```bash
 pip install -r requirements.txt
+
 streamlit run app.py
-```
 
 ## Author
+
 Jyotsna Mehta
